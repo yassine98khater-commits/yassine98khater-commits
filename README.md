@@ -16,7 +16,7 @@ Passionné par les **systèmes électroniques embarqués pour les applications c
 * **Simulation :** LTSpice, GNU Radio, Matlab/Simulink.
 
 ## 📂 Projets Phares
-* **Station Sol Satellite :** Système de prédiction orbitale et démodulation de signaux via SDR.
+* **[Station Sol Satellite](https://github.com/yassine98khater-commits/Satellite-Ground-Station)** : Système de prédiction orbitale et démodulation de signaux via SDR.
 * **Prothèse Robotique Intelligente :** Pilotage de systèmes embarqués et intégration de capteurs de force.
 * **PowerGrid Simulation :** Modélisation et optimisation d'un réseau électrique complexe.
 
